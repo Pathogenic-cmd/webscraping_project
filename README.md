@@ -132,4 +132,4 @@ project/
 
 ## 🧠 Author
 
-Built by [Your Name] | Powered by Python & Tableau
+Built by Daniel Kofi Debrah Awuma | Powered by Python & Tableau
